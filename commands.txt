@@ -1,0 +1,7 @@
+pip3 install virtualenv
+
+pip3 install Django==4.0.5
+django-admin
+django-admin startproject studybud
+python3 manage.py runserver
+python3 manage.py startapp base
